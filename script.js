@@ -1,5 +1,5 @@
 // Fecha objetivo: 26 de enero de 2026
-const targetDate = new Date("Jan 26, 2026 00:00:00").getTime();
+const targetDate = new Date("Jan 27, 2026 00:00:00").getTime();
 
 const countdownElement = document.getElementById("countdown");
 const messageElement = document.getElementById("message");
